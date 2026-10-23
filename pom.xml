@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>exercicios-sb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exercicios-sb</name>
-	<description>Exercicios Spring Boot</description>
+	<name>spring-boot-api-produtos</name>
+	<description>API REST de produtos com Spring Boot, JPA e MySQL</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>

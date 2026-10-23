@@ -1,4 +1,4 @@
-# Exercícios Spring Boot
+# Spring Boot API Produtos
 
 Meu primeiro projeto com Java e Spring Boot, desenvolvido durante um curso. Ele reúne exercícios de controllers REST, métodos HTTP, parâmetros de rota e de query, e um CRUD de produtos com JPA e MySQL.
 
